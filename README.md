@@ -1,2 +1,2 @@
-# Self-Driving-Cars
-Self driving cars lectures for computer science students.
+# Automotive-Systems
+Automotive systems lectures for computer science students.
